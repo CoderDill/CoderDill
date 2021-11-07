@@ -2,6 +2,8 @@
 
 ### I'm Matthew Dillon, thank you for visting my GitHub!
 
+## &#x1f4c8; GitHub Stats
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyDill&theme=radical" />
 </a>
 <a href="https://github.com/CrappyDill/CrappyDill">
