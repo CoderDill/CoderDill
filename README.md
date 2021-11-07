@@ -4,6 +4,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
+<a href="https://github.com/CrappyDill/CrappyDill">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyDill&theme=radical" />
 </a>
 <a href="https://github.com/CrappyDill/CrappyDill">
