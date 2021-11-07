@@ -1,4 +1,4 @@
-### Hi there 👋 ### I'm Matthew Dillon, thank you for visting my GitHub!
+### Hi there 👋 I'm Matthew Dillon, thank you for visting my GitHub!
 
 ## &#x1f4c8; GitHub Stats
 
