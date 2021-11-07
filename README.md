@@ -3,7 +3,10 @@
 ### I'm Matthew Dillon, thank you for visting my GitHub!
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrappyDill&theme=radical" />
-
+</a>
+<a href="https://github.com/CrappyDill/CrappyDill">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CrappyDill&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Matthews's GitHub Stats" />
+</a>
 
 <!--
 **CrappyDill/CrappyDill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
