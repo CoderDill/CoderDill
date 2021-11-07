@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Matthew Dillon, thank you for visting my GitHub!
+### Hi there 👋 
+
+I'm Matthew Dillon, thank you for visting my GitHub profile! I am a full stack Software Engineer and Programmer. I'm currently living in Sacramento Ca and looking for my first job in Tech!
 
 ## &#x1f4c8; GitHub Stats
 
