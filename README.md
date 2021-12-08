@@ -3,7 +3,8 @@
 
 I'm Matthew Dillon, thank you for visting my GitHub profile! I am a full stack Software Engineer and Programmer. I'm currently living in Sacramento Ca and looking for my first job in Tech!
 
-## [Portfolio](https://www.coderdill.com)
+## Portfolio
+[coderdill.com](https://www.coderdill.com)
 
 ## &#x1f4c8; GitHub Stats
 
