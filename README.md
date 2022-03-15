@@ -1,7 +1,7 @@
 
 ## Hi there 👋 
 
-I'm Matthew Dillon, thank you for visting my GitHub profile! I am a Full Stack Software Engineer. I'm currently living in Sacramento Ca and looking for my first job in Tech!
+I'm Matthew Dillon, thank you for visting my GitHub profile! I am a Full Stack Software Engineer currently living in Sacramento Ca.
 
 ## Portfolio
 [www.coderdill.com](https://www.coderdill.com)
