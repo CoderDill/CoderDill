@@ -3,9 +3,6 @@
 
 I'm Matthew Dillon, thank you for visting my GitHub profile! I am a Software Developer currently living in Sacramento Ca.
 
-## Portfolio
-[www.coderdill.com](https://www.coderdill.com)
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/CoderDill/CoderDill">
