@@ -3,15 +3,6 @@
 
 I'm Matthew Dillon, thank you for visting my GitHub profile! I am a Software Developer currently living in Sacramento Ca.
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/CoderDill/CoderDill">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDill&theme=radical" />
-</a>
-<a href="https://github.com/CoderDill/CoderDill">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CoderDill&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Matthews's GitHub Stats" />
-</a>
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vscode=white&color=2bbc8a)
